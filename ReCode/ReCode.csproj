@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
-		<TargetFrameworks>netstandard2.0;net452</TargetFrameworks>
+		<TargetFrameworks>netstandard2.0;net480;.net6.0;</TargetFrameworks>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<Authors>Thomas Rask Thomsen</Authors>
 		<Company>Thomas Rask Thomsen</Company>
